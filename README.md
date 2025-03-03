@@ -1,4 +1,4 @@
-# Hi there, I'm @Ranjan-Ravii! 👋
+# Hi there, I'm Ranjan-Ravii! 👋
 
 ## About Me
 - 👀 I’m interested in learning tech and science.
