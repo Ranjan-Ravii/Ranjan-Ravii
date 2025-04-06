@@ -1,19 +1,35 @@
-# Hi there, I'm Ranjan-Ravii! 👋
+Here’s an updated and polished version of your GitHub profile README, tailored to your background and current goals:
 
-## About Me
-- 👀 I’m interested in learning tech and science.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on projects related to web design and Arduino.
+```markdown
+# Hi there, I'm Ravi Ranjan! 👋
 
-## What I'm Working On
-I am actively working on improving my web development skills and exploring various projects that involve web design and Arduino technology.
+## 🚀 About Me
+- 🎓 B.Tech Student | Artificial Intelligence & Machine Learning (AIML)  
+- 🌍 Based in Delhi, India  
+- 👨‍💻 Passionate about tech, science, and creative digital projects  
+- 🌱 Currently learning **Web Development** (React, Tailwind, APIs, Deployment)
+- 🤖 Also exploring **Arduino** and **IoT projects**
 
-## Collaboration
-I'm open to collaborating on any interesting projects, especially those involving:
-- Web design
-- Arduino and related technologies
+## 💻 What I'm Working On
+- Developing creative and responsive web applications using **React**  
+- Working on a **YouTube Video Downloader** app with a Flask backend  
+- Exploring automation projects and planning full-stack AI-powered tools  
+- Tinkering with **Arduino** to build smart systems and sensor-based projects
 
-## Get in Touch
-You can reach me via email at [inboxraviiranjan@gamil.com](mailto:inboxraviiranjan@gamil.com).
+## 🤝 Collaboration Interests
+I'm always open to collaborating on exciting projects involving:
+- ⚡ Web Design & Development (React, APIs, Tailwind CSS, Flask)
+- 🔌 Arduino, IoT, and Automation
+- 🧠 AI-integrated Web Projects
+- 🎮 Fun or educational tech-based side projects
 
-Looking forward to connecting and collaborating with you!
+## 📫 Get in Touch
+- Email: [inboxraviiranjan@gmail.com](mailto:inboxraviiranjan@gmail.com)  
+- LinkedIn: [linkedin.com/in/ranjan-ravii](https://www.linkedin.com/in/ranjan-ravii) *(optional—add if available)*  
+- Portfolio: [ranjan-ravii.github.io](https://ranjan-ravii.github.io) *(optional—add if available)*
+
+---
+
+Let's connect and build something awesome together! 🌟
+```
+ 
